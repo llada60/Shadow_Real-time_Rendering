@@ -9,7 +9,7 @@
 
 **CSC_4IG03_TP** Fundamentals of Computer Graphics, Fall 2024
 
-Implementation of Loop Subdivision algorithm for mesh smoothing and subdivision, using OpenGL. 
+Implementation of two real-time rendering techniques: normal mapping and shadow mapping.
 
 ---
 
