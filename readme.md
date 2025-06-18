@@ -1,5 +1,7 @@
 # Shadow
 
+[🎬 Watch the demo video](https://github.com/llada60/Shadow_Real-time_Rendering/raw/refs/heads/main/demo/video.mp4)
+
 <img src="demo/demo.png" alt="shadow" width="500"/>
 
 
